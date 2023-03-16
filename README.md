@@ -45,16 +45,31 @@ open http://localhost:8090/ on browser
 Run chat-demo configured to port 8060
 open http://localhost:8060/ on browser
 
+
+![App Screenshot](login.png)
+
+
 make use of credentials below for admin server
+
 username=client
+
 password=client
 
 
 
-The main chat window open login with your chat username.
+The main chat window open 
+
+login with a chat user.
+
+![App Screenshot](index.png)
+
 Multiple windows can be opened and different chat username can be used to simulate chatting process
 
+![App Screenshot](chat.png)
+
 on http://localhost:8090/ the metrics can be monitored
+
+![App Screenshot](adminMonitor.png)
 
 
 

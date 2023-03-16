@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6e625f2-cbbc-4d65-a342-10704b2e68e2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat-demo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/admin/server/ServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/test/java/com/admin/server/ServerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chat-demo/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chat-demo/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat-demo/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chat-demo/src/main/resources/static/index.html" afterDir="false" />
@@ -34,7 +23,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chat-demo" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GradleLocalSettings">
@@ -131,6 +120,7 @@
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/applications/workspace-sts-3.9.10.RELEASE/chat/test/chat-demo&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -160,11 +150,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="chatadminserver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="chatadminserver" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChatDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-11.0.17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <module name="chat-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.chatdemo.ChatDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,7 +223,11 @@
       <workItem from="1678965462117" duration="2448000" />
       <workItem from="1678971257094" duration="50000" />
       <workItem from="1678972639064" duration="1273000" />
-      <workItem from="1678973943535" duration="731000" />
+      <workItem from="1678973943535" duration="2505000" />
+      <workItem from="1678976529734" duration="616000" />
+      <workItem from="1678977815310" duration="267000" />
+      <workItem from="1678978176916" duration="851000" />
+      <workItem from="1678979347873" duration="173000" />
     </task>
     <servers />
   </component>
