@@ -59,7 +59,7 @@ password=client
 
 The main chat window open 
 
-login with a chat user.
+login with a chat user
 
 ![App Screenshot](index.png)
 
